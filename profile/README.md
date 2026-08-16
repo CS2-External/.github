@@ -1,4 +1,4 @@
-# 🎯 CS2-Internal-Cheat
+# 🎯 CS2-External-Cheat
 
 <p align="center">
   <strong>Free and open-source external cheat for CS2, written in C++, working on Windows</strong>
